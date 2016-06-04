@@ -4,14 +4,50 @@
     <globalmarks />
     <filemarks>
       <file name="E:/workspaces/androidmvp/app/src/main/java/com/antonioleiva/mvpexample/app/Login/LoginView.java" timestamp="1465028427507" />
+      <file name="E:/workspaces/androidmvp/app/src/main/java/com/antonioleiva/mvpexample/app/Login/LoginActivity.java" timestamp="1465031119850">
+        <mark key="'" line="39" column="21" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="E:/workspaces/androidmvp/app/src/main/AndroidManifest.xml" timestamp="1465029719336" />
+      <file name="E:/workspaces/androidmvp/app/src/main/java/com/antonioleiva/mvpexample/app/Login/LoginInteractor.java" timestamp="1465030543232" />
+      <file name="E:/workspaces/androidmvp/app/src/main/java/com/antonioleiva/mvpexample/app/Login/LoginActivity.puml" timestamp="1465031040350" />
+      <file name="E:/workspaces/androidmvp/app/src/main/java/com/antonioleiva/mvpexample/app/Login/LoginPresenterImpl.java" timestamp="1465030872750" />
     </filemarks>
-    <jumps />
-    <registers />
+    <jumps>
+      <jump line="44" column="8" filename="E:/workspaces/androidmvp/app/src/main/java/com/antonioleiva/mvpexample/app/Login/LoginActivity.java" />
+      <jump line="39" column="21" filename="E:/workspaces/androidmvp/app/src/main/java/com/antonioleiva/mvpexample/app/Login/LoginActivity.java" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIExvZ2luQWN0aXZpdHkgZXh0ZW5kcyBBY3Rpdml0eSBpbXBsZW1lbnRzIExvZ2luVmlldywgVmlldy5PbkNsaWNrTGlzdGVuZXIgewo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIExvZ2luQWN0aXZpdHkgZXh0ZW5kcyBBY3Rpdml0eSBpbXBsZW1lbnRzIExvZ2luVmlldywgVmlldy5PbkNsaWNrTGlzdGVuZXIgewo=</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history />
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
